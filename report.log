@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.16)  24 OCT 2022 10:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.16)  24 OCT 2022 10:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -739,7 +739,7 @@ Here is how much of TeX's memory you used:
 <c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 ><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on report.pdf (3 pages, 40244 bytes).
+Output written on report.pdf (3 pages, 40258 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
